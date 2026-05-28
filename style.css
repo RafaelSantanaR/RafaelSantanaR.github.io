@@ -1,5 +1,4 @@
  body {
-      background: #111;
       color: white;
       font-family: Arial;
       display: flex;
@@ -7,6 +6,9 @@
       align-items: center;
       height: 100vh;
       margin: 0;
+      background-image:url('background.jpg');
+      background-size:cover;
+      background-position:center;
     }
 
     .card {
